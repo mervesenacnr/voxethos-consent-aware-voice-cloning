@@ -1,0 +1,11 @@
+Copyright 2026 mervesenacnr and VoxEthos contributors.
+
+## Historical source provenance
+
+This public VoxEthos source snapshot originates from an earlier private repository. Its private Git history is not included in this GitHub repository.
+
+## License and attribution
+
+Project-authored material in this repository is licensed under Apache-2.0; see `LICENSE`. The project maintainer has confirmed authority to license their original contributions and permission to include collaborator contributions. This notice does not grant rights in third-party dependencies or override their licenses.
+
+No external speech dataset, model weights, or real speech recordings are included in this branch. See `docs/THIRD_PARTY_NOTICES.md` for the direct dependency license inventory.
